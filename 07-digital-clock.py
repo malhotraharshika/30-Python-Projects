@@ -2,7 +2,7 @@ from time import strftime
 from tkinter import Label, Tk
 
 window = Tk()
-window.title("Alarm")
+window.title("My Digital Clock")
 window.geometry("240x100")
 window.config(bg="black")
 window.resizable(True, True)
