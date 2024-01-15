@@ -4,7 +4,7 @@ import subprocess
 speed = speedtest.Speedtest()
 
 subprocess.run(["speedtest-cli", "--share"])
-print("Click and open the above link ↑ ")
+print("\n Click and OPEN the above link ↑ to view graphical representation of internet speed")
 
 download_speed = speed.download()
 upload_speed = speed.upload()
