@@ -22,4 +22,3 @@ if __name__ == "__main__":
     output_path = "D:"
 
     download_youtube_video(youtube_video_link, output_path)
-# https://www.youtube.com/watch?v=AcVaF1w34SU
